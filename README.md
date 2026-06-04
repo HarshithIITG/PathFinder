@@ -52,4 +52,4 @@ maze-generator/
 - Visualization: D3.js
 
 ---
-Enjoy exploring maze algorithms visually!
+Enjoy exploring maze algorithms visually! 🚀
